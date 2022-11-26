@@ -1,4 +1,10 @@
 .intro__list__element_number {
     margin: 0 0 0 3px;
     padding: 0;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.5;
+    color: #FFFFFF;
 }
