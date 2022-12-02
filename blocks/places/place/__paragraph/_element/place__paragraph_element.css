@@ -1,0 +1,8 @@
+.place__paragraph_element {
+    margin: 0;
+    padding: 0;
+}
+
+.place__paragraph_element:nth-child(2n+2) {
+    margin-top: 26px;
+}
