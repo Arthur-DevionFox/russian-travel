@@ -1,3 +1,14 @@
+.footer__links_link {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.12;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
 .footer__links_link:nth-child(1n+2) {
     margin: 0 0 0 18px;
+
 }

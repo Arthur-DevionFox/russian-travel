@@ -1,6 +1,6 @@
 .header {
     position: relative;
-    max-width: 90%;
+    max-width: 90vw;
     padding: 28px 48px 0;
     margin: 0 auto;
     color: white;
@@ -8,4 +8,8 @@
     align-items: flex-end;
     justify-content: space-between;
     /*border: solid red 1px;*/
+}
+
+@media screen and (max-width: 1024px){
+
 }

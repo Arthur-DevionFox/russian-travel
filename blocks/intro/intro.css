@@ -1,9 +1,15 @@
 .intro {
-    padding: 0;
-    margin: 114px 34% 0 auto;
+    margin: 0 auto;
+    padding: 114px 34vw 0 11.6vw;
     position: relative;
-    max-width: 55%;
+    max-width: 690px;
     display: flex;
     flex-direction: column;
     justify-content: start;
+}
+
+@media screen and (max-width: 1024px){
+    .intro {
+        padding: 92px 27vw 0 4.7vw
+    }
 }
