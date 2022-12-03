@@ -14,4 +14,4 @@
 
 **GithubPages**
 
-*[Сыллка на сайт](https://arthur-devionfox.github.io/russian-travel/)
+* [Сыллка на сайт](https://arthur-devionfox.github.io/russian-travel/)
