@@ -1,4 +1,22 @@
 .header__logo {
     max-width: 25vw;
-    padding-right: 71%;
+}
+
+@media screen and (max-width: 1024px) {
+    .header__logo {
+        margin-right: 59vw;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .header__logo {
+        margin-right: 40vw;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .header__logo {
+        max-width: 142px;
+        margin-right: 20vw;
+    }
 }

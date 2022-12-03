@@ -7,9 +7,21 @@
     display: grid;
 }
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 1024px) {
     .places {
         /**/
         padding: 92px 4.7vw 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .places {
+        padding: 88px 3.1vw 0;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .places {
+        padding: 64px 0;
     }
 }

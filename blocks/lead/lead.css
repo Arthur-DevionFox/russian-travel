@@ -1,6 +1,6 @@
 .lead {
     padding: 56px 11.6vw 0;
-/*    margin: 0 auto;*/
+    /*    margin: 0 auto;*/
     position: relative;
     max-width: 100vw;
     display: flex;
@@ -12,5 +12,11 @@
 @media screen and (max-width: 1024px) {
     .lead {
         padding: 48px 4.7vw 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .lead {
+        padding: 48px 0;
     }
 }
