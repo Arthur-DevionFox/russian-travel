@@ -1,6 +1,5 @@
 .cover__title {
     min-width: 560px;
-    max-width: 44vw;
     margin: 0;
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -17,7 +16,6 @@
         font-size: 32px;
         line-height: 1.09;
         min-width: 288px;
-        max-width: 20vw;
         margin: 0 16px 0 16px;
     }
 }
