@@ -1,22 +1,9 @@
 .header__logo {
-    max-width: 25vw;
+    max-width: 177px;
 }
 
-@media screen and (max-width: 1024px) {
-    .header__logo {
-        margin-right: 59vw;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .header__logo {
-        margin-right: 40vw;
-    }
-}
-
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 456px) {
     .header__logo {
         max-width: 142px;
-        margin-right: 20vw;
     }
 }

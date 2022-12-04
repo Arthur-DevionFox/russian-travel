@@ -1,12 +1,18 @@
 .header {
     position: relative;
-    max-width: 88vw;
-    padding: 28px 3.8vw 0;
+    max-width: 1184px;
+    padding: 28px 48px 0;
     margin: 0 auto;
     color: white;
     display: flex;
     align-items: flex-end;
     justify-content: space-between;
     /*border: solid red 1px;*/
+}
+
+@media screen and (max-width: 320px) {
+    .header {
+        padding: 16px 16px 0;
+    }
 }
 

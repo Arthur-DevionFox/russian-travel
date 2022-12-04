@@ -1,0 +1,7 @@
+.header__link:first-child {
+    margin: 0;
+}
+
+.header__link:nth-child(n+2) {
+    margin: 0 0 0 18px;
+}
