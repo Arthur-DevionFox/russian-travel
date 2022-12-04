@@ -5,6 +5,7 @@
     font-size: 18px;
     line-height: 163%;
     color: #FFFFFF;
+    max-width: 484px;
 }
 
 @media screen and (max-width: 768px) {
@@ -15,6 +16,6 @@
 
 @media screen and (max-width: 320px) {
     .place__paragraph {
-        margin: 0 5vw 0 5vw;
+        margin: 0 16px 0 16px;
     }
 }

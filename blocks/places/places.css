@@ -2,7 +2,7 @@
     padding: 92px 148px 0;
     margin: 0 auto;
     position: relative;
-    max-width: 928px;
+    max-width: 984px;
     display: grid;
 }
 
@@ -21,6 +21,6 @@
 
 @media screen and (max-width: 320px) {
     .places {
-        padding: 64px 0;
+        padding: 64px 0 0 0;
     }
 }

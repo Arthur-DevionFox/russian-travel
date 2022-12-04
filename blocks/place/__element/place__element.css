@@ -1,0 +1,15 @@
+.place__element {
+    margin: 0;
+    padding: 0;
+    word-wrap: anywhere;
+}
+
+.place__element:nth-child(2n+2) {
+    margin-top: 26px;
+}
+
+@media screen and (max-width: 768px) {
+    .place__element:nth-child(2n+2) {
+        margin-top: 25px;
+    }
+}
