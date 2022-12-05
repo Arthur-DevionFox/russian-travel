@@ -25,6 +25,10 @@
         grid-template-columns: minmax(min-content, 340px) 1fr;
         grid-template-rows: 1fr;
     }
+
+    .place:nth-child(n+2) {
+        margin-top: 73px;
+    }
 }
 
 @media screen and (max-width: 456px) {
